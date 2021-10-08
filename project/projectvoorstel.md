@@ -43,17 +43,17 @@ Contact pagina
 
 ### PAGINA 1 
 naam: Home 
-beschrijving: Een korte uitleg wie ze zijn wat ze doen enzovoort
+beschrijving: Een korte uitleg wie ze zijn wat ze doen, met het logo en een voorbeeld van een verbouwing op de home page
 
 ### PAGINA 2
 naam: Projecten 
-beschrijving: Hier komen de vorige projecten van het bedrijf, geillustreerd met foto's van het gebouw, hoe het er voor was en hoe ze het hebben veranderd enzovoort
+beschrijving: Hier komen de vorige projecten van het bedrijf, geillustreerd met foto's van het gebouw, hoe het er voor was en hoe ze het hebben veranderd.
 
 
 
 ### PAGINA 3
 naam: Reviews  
-beschrijving: verschillende recensies van vorige klanten, en hoe ze de samenwerking vonden en de tevredenheid van de verbouwing
+beschrijving: verschillende recensies van vorige klanten, en hoe ze de samenwerking vonden en de tevredenheid van de verbouwing. de pagina wordt eens om de zoveel tijd aangepast met de laatste nieuwe recensies. 
 
 
 
