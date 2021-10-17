@@ -1,0 +1,109 @@
+/**
+ *
+ * Common styles
+ *
+ * @author !Sam De Witte!
+ *
+ */
+
+/* ===========================================
+   General
+   =========================================== */
+
+/* html, body and general element styles here */
+
+/* ... */
+
+p {
+   margin: 1.8px;
+   font-size: 13px;
+}
+
+/* ===========================================
+   Menu
+   =========================================== */
+
+/* menu styles here */
+
+/* ... */
+
+header li {
+   list-style: none;
+   display: inline;
+   margin: 1.8px
+}
+
+header a {
+   text-decoration: none;
+   color: black;
+}
+
+.active {
+   background-color: red;
+   color: #eee;
+   padding: 4px 4px;
+}
+
+/* ===========================================
+   Banner
+   =========================================== */
+
+/* banner styles here */
+
+/* ... */
+
+#banner {
+   background-image: url(../img/slider_photo2.jpg);
+border: red solid 5px;
+}
+
+
+
+/* ===========================================
+   Main
+   =========================================== */
+
+/* main styles here */
+
+/* ... */
+div img{
+   border: 0.5px solid #eadddd
+}
+h3 {
+   text-transform: uppercase;
+   word-spacing: 1px;
+   font-weight: normal;
+   font-family: 'roboto', sans-serif
+}
+.more{
+border: 1px solid black;
+border-radius: 5px;
+padding: 5px;
+float: right;
+color: black;
+}
+
+
+input{
+   background-color: red;
+color: white;
+}
+input#email{
+   background-color: lightgray;
+   color: darkgray;
+}
+
+/* ===========================================
+   Footer
+   =========================================== */
+
+/* footer styles here */
+
+/* ... */
+footer p{
+   color:black;
+text-align: center;
+padding: 20px;
+      background: linear-gradient(0deg, rgba(182,182,182,1) 0%, rgba(219,219,219,1) 100%);
+      border-top: 2px dotted #ffffff;
+}
