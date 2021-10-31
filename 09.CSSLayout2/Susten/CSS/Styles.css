@@ -6,10 +6,8 @@ body{
 img {
     max-width: 100%;
 }
-header img{
 
 
-}
 header li {
     list-style: none;
     display: inline;
@@ -34,15 +32,32 @@ nav ul{
     justify-content: space-between;
     
 }
+
+.active{
+        background-color:rgb(134, 199, 97);
+        color: #eee;
+        padding: 4px 4px;
+}
+
+
 .banner{
-    display: block;
-    width: 100%;
+background-image: url(../img/header.jpg);
+color: rgb(255, 255, 255);
+min-height: 200px;
+background-repeat: no-repeat;
+
+
 }
 
-h3{
+.divisies{
+    display: flex;
+text-align: auto;
+}
+
+.titel{
     color: rgb(151, 151, 235);
-}
 
+}
 body{
     font-family: Lucida 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
@@ -50,6 +65,35 @@ body{
 a{
     text-decoration: none;
 }
+
+
+
+
+.report h4{
+    color: rgb(151, 151, 235);
+}
+
+div.people{
+    text-align: center;
+}
+div.planet{
+    text-align: center;
+}
+div.plate{
+    text-align:center ; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 footer{
     background-color: black;
