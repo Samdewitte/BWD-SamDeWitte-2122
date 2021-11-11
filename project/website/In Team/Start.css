@@ -1,25 +1,74 @@
+.logo{
+    display: inline;
+}
+
+
+.menu{
+    background-color: rgb(133, 167, 241);
+}
+
+
 header li {
     list-style: none;
     display: inline;
     margin: 1.8px;
-    
  }
 
  header a{
 color: black;
 text-decoration: none;
 font-size: 20px;
-text-align: justify;
+text-align: right;
 }
 header a:hover{
-    color:rgb(131, 162, 247);
+    color:rgb(248, 248, 250);
 }
-.active{
-    color: black; 
-    font-weight: bold; 
+.header{
+    background-size: cover;
+    background-position: 50%;
+    list-style: non!important;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    margin: right;
+    float: left;
+    z-index: -1;
 }
 
-p a{
+
+
+
+nav a{ border-radius: 5px;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background 0.3s;}
+
+.active{
+ color: rgb(17, 223, 103); 
+}
+
+
+ul{
+    text-align: right;
+    
+}
+
+
+div.wie{
+    text-align: justify;
+}
+
+
+ div.projects{
+     text-align: justify;
+ }
+
+
+
+.wie a{
     color: black;
     text-decoration: none;
     font-size: 15px;
@@ -27,9 +76,47 @@ p a{
 padding: 10px;
 color: black;
 }
-p a:hover{
+
+.wie a:hover{
+    color: white;
+    background-color: red;}    
+
+.projects a{
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid black;
+padding: 10px;
+color: black;
+}
+.projects a:hover{
     color: white;
     background-color: red;
-    
+}
+
+ 
+h1.contact{
+    color: blue;
+}
+
+
+
+
+
+
+
+.opening{
+    background-color: rgb(133, 167, 241);
+    color: black;
+    background-size: 20%;
+}
+
+
+footer{
+    background-color: rgb(133, 167, 241);
+    color: black;
+}
+footer a{
+    color: rgb(250, 250, 250);
 }
 
